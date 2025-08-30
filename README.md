@@ -58,8 +58,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&bg_color=0c0048&title_color=5e05b3&text_color=ffffff&icon_color=c300db&border_color=5e05b3&border_radius=10" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&bg_color=0c0048&title_color=5e05b3&text_color=ffffff&icon_color=c300db&border_color=5e05b3&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ghinashour&show_icons=true&theme=radical&bg_color=0c0048&title_color=5e05b3&text_color=ffffff&icon_color=c300db&border_color=5e05b3&border_radius=10" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghinashour&layout=compact&theme=radical&bg_color=0c0048&title_color=5e05b3&text_color=ffffff&icon_color=c300db&border_color=5e05b3&border_radius=10" />
 </div>
 
 ## 🔗 Connect With Me
@@ -84,11 +84,11 @@
 <div align="center">
   
   <!-- Replace with your actual project links -->
-  <a href="https://github.com/your-username/project-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical&bg_color=0c0048&title_color=5e05b3&text_color=ffffff&icon_color=c300db&border_color=5e05b3&border_radius=10" />
+  <a href="https://github.com/ghinashour/internship2025-babibeats-cyber.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghinashour&repo=internship2025-babibeats-cyber&theme=radical&bg_color=0c0048&title_color=5e05b3&text_color=ffffff&icon_color=c300db&border_color=5e05b3&border_radius=10" />
   </a>
-  <a href="https://github.com/your-username/project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical&bg_color=0c0048&title_color=5e05b3&text_color=ffffff&icon_color=c300db&border_color=5e05b3&border_radius=10" />
+  <a href="https://github.com/ghinashour/brava-project.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghinashour&repo=brava-project&theme=radical&bg_color=0c0048&title_color=5e05b3&text_color=ffffff&icon_color=c300db&border_color=5e05b3&border_radius=10" />
   </a>
   
 </div>
@@ -97,6 +97,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ghinashour/ghinashour/blob/output/github-contribution-grid-snake.svg)
   
 </div>
