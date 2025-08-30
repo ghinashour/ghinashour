@@ -25,6 +25,7 @@
   <strong>📧 How to reach me:</strong> <a href="mailto:shourghina@gmail.com">shourghina@gmail.com</a><br>
   <strong>⚡ Fun fact:</strong> I love designing, learning and exploring all about the tech world
 </p>
+
 ## 🛠️ Technologies & Tools
 
 ### Frontend Development
