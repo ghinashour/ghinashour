@@ -1,15 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=5e05b3&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Ghina+Shour;A+Passionate+Developer;Full-Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=5e05b3&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Ghina+Shour;A+Passionate+Developer;Full-Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
+  </a>
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=5e05b3&style=flat" alt="profile views" /> 
-  <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social&color=0344a9" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=ghinashour&label=Profile%20Views&color=5e05b3&style=flat" alt="profile views" /> 
+  <img src="https://img.shields.io/github/followers/ghinashour?label=Follow&style=social&color=0344a9" alt="followers"/>
 </p>
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&border_radius=4.5&mode=weekly&background=0c0048&border=5e05b3&stroke=5e05b3&ring=c300db&fire=c300db&currStreakNum=009ddc&sideNums=009ddc&currStreakLabel=009ddc&sideLabels=009ddc&dates=ffffff)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ghinashour&theme=radical&border_radius=4.5&mode=weekly&background=0c0048&border=5e05b3&stroke=5e05b3&ring=c300db&fire=c300db&currStreakNum=009ddc&sideNums=009ddc&currStreakLabel=009ddc&sideLabels=009ddc&dates=ffffff)](https://git.io/streak-stats)
   
 </div>
 
@@ -23,7 +25,6 @@
   <strong>📧 How to reach me:</strong> <a href="mailto:shourghina@gmail.com">shourghina@gmail.com</a><br>
   <strong>⚡ Fun fact:</strong> I love designing, learning and exploring all about the tech world
 </p>
-
 ## 🛠️ Technologies & Tools
 
 ### Frontend Development
