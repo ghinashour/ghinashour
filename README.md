@@ -92,9 +92,6 @@
   <a href="https://github.com/ghinashour/responsive_login_form.git">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghinashour&repo=responsive_login_form&theme=radical&bg_color=0c0048&title_color=5e05b3&text_color=ffffff&icon_color=c300db&border_color=5e05b3&border_radius=10" />
   </a>
-  <a href="https://github.com/ghinashour/portfolio.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghinashour&repo=portfolior&theme=radical&bg_color=0c0048&title_color=5e05b3&text_color=ffffff&icon_color=c300db&border_color=5e05b3&border_radius=10" />
-  </a>
     <a href="https://github.com/ghinashour/tawerhalak.git">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghinashour&repo=tawerhalak&theme=radical&bg_color=0c0048&title_color=5e05b3&text_color=ffffff&icon_color=c300db&border_color=5e05b3&border_radius=10" />
   </a>
