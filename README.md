@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tse3.mm.bing.net/th/id/OIP.XbhIGO49XCjhHxsWmFBtrAHaEK?pid=Api&P=0&h=220" alt="Header Image" width="100%" />
+  <img src="https://tse3.mm.bing.net/th/id/OIP.XbhIGO49XCjhHxsWmFBtrAHaEK?pid=Api&P=0&h=220" alt="Header Image" width="100%" height="200px" />
 </div>
 
 <h1 align="center">
